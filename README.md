@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi, I'm Alarmelmangai 👋
 
-<!--
-**Alarmelmangai-K/Alarmelmangai-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science (AI & Digital Business) @ GISMA University, Germany  
+📊 Data Analyst with strong foundations in Python, SQL, Machine Learning, and Analytics  
+🌍 Based in Berlin, Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I Do
+- Data Analysis & Visualization
+- Exploratory Data Analysis (EDA)
+- Machine Learning & Predictive Modeling
+- Explainable AI (XAI)
+- SQL-based data querying
+
+---
+
+### 📌 Featured Projects
+- Explainable AI in Clinical Genomics (Master’s Thesis)
+- Material Gate-Pass System (Python + SQL)
+- Liver Disease Prediction using Machine Learning
+- Drug Review Sentiment Analysis (NLP)
+- Renewable Energy Market Analysis
+- Bird Strike Analysis in Aviation
+
+---
+
+### 🛠️ Tools & Technologies
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **ML:** Classification, NLP, Deep Learning  
+- **Analytics:** Excel, Data Visualization  
+- **Other:** Git, Jupyter Notebook
+
+- ---
+
+### 🎓 Academic & Teaching Experience
+- Former University Teaching Assistant / Lecturer
+- Taught Python, Java, SQL, and Programming Fundamentals to ~120 undergraduate students
+- Designed hands-on labs, assignments, and project-based learning modules
+- Developed a Material Gate-Pass System to digitize academic operations and demonstrate real-world system design
+
+---
+
+📫 **Let’s connect**
+- LinkedIn: (to be added)
