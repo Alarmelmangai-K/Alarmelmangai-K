@@ -15,7 +15,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Projects 
 - Explainable AI in Clinical Genomics (Master’s Thesis)
 - Material Gate-Pass System (Python + SQL)
 - Liver Disease Prediction using Machine Learning
