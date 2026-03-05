@@ -43,4 +43,4 @@
 ---
 
 📫 **Let’s connect**
-- LinkedIn: (to be added)
+- www.linkedin.com/in/alarmelmangai-k
