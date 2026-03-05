@@ -1,7 +1,7 @@
 ## Hi, I'm Alarmelmangai 👋
 
 🎓 MSc Data Science (AI & Digital Business) @ GISMA University, Germany  
-📊 Data Analyst with strong foundations in Python, SQL, Machine Learning, and Analytics  
+📊 Data Analyst with strong foundations in Python, SQL, Machine Learning, and interpretability  
 🌍 Based in Berlin, Germany  
 
 ---
@@ -16,19 +16,19 @@
 ---
 
 ### 📌 Featured Projects 
-- Explainable AI in Clinical Genomics (Master’s Thesis)
-- Material Gate-Pass System (Python + SQL)
-- Liver Disease Prediction using Machine Learning
-- Drug Review Sentiment Analysis (NLP)
-- Renewable Energy Market Analysis
-- Bird Strike Analysis in Aviation
+**Explainable AI in Clinical Genomics:** Interpretable ML models for healthcare datasets
+**Material Gate-Pass System:** Data-driven web application using Python, Flask & SQL
+**Liver Disease Prediction** Machine learning classification for healthcare prediction
+**Drug Review Sentiment Analysis:** NLP-based sentiment classification using text data
+**Renewable Energy Market Analysis:** Data analysis and visualization of global energy trends
+**Bird Strike Analysis in Aviation:** Exploratory data analysis on aviation safety datasets
 
 ---
 
 ### 🛠️ Tools & Technologies
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **ML:** Classification, NLP, Deep Learning  
+- **ML:** Regression, Classification, NLP, Deep Learning  
 - **Analytics:** Excel, Data Visualization  
 - **Other:** Git, Jupyter Notebook
 
