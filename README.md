@@ -17,10 +17,15 @@
 
 ### 📌 Featured Projects 
 **Explainable AI in Clinical Genomics:** Interpretable ML models for healthcare datasets
+
 **Material Gate-Pass System:** Data-driven web application using Python, Flask & SQL
+
 **Liver Disease Prediction** Machine learning classification for healthcare prediction
+
 **Drug Review Sentiment Analysis:** NLP-based sentiment classification using text data
+
 **Renewable Energy Market Analysis:** Data analysis and visualization of global energy trends
+
 **Bird Strike Analysis in Aviation:** Exploratory data analysis on aviation safety datasets
 
 ---
